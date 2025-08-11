@@ -17,3 +17,4 @@ Styling: Tailwind CSS
 Data Source: CoinGecko API
 "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false"
 
+git clone "https://github.com/Sahnawaz6068/WEB3.git"
